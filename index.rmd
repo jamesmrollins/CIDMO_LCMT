@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 link-citations: yes
 preview: yes
 site: bookdown::bookdown_site
-description: This is the Team PSD one stop shop.
+description: This is the CIDMO Lean Change Management one stop shop.
 ---
 
 # CIDMO LCMT Manual
