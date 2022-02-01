@@ -5,7 +5,7 @@ bookdown::gitbook:
     toolbar:
       position: static
     download: [epub, docx]
-    edit: https://github.com/jamesrollins/CIDMO_LCMT/edit/gh-pages/%s
+    edit: https://github.com/jamesmrollins/CIDMO_LCMT/edit/gh-pages/%s
     sharing:
       github: yes
 
