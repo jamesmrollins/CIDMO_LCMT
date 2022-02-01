@@ -28,6 +28,6 @@ Most value-streams are characterized graphically with respective rate and qualit
 
 ## CIDMO Operates Development Value Streams
 
-CIDMO has many portfolios that describe competencies they can fulfill with customers. Using the Lean method, we are organizing these competencies around **Development Value Streams (DVS)**. As features for customers are developed from the DVS, it flows to improvements in the CVS; thus, value we create is being actualized in terms of performance improvement in the CVS.
+CIDMO has many portfolios that describe competencies they can fulfill with customers. Using the Lean method, we are organizing these competencies around **Development Value Streams (DVS)**. As features for customers are developed from the DVS, _it flows to improvements in the CVS_; thus, value we create is being actualized in terms of performance improvement in the CVS.
 
 > DVS Value Stream Illustration with relationship to CVS
