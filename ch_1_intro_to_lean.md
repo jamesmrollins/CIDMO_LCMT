@@ -4,11 +4,11 @@ Lean is a theory and a work method that is aimed at maximizing value-added activ
 
 ## Lean Is Based on 4 Principles
 
-- Define **Value**.
-- Map the Value Stream.
-- Create **Flow** - so steps defined in the value stream flow uninterrupted.
-- Establish **Pull** - work on one thing at a time in order of priority (Kanban).
-- Relentlessly pursue the absolute **Removal of Waste**.
+- Define **Value**. (graphic)
+- Map the Value Stream. (graphic)
+- Create **Flow** - so steps defined in the value stream flow uninterrupted. (Graphic)
+- Establish **Pull** - work on one thing at a time in order of priority (Kanban). (Graphic)
+- Relentlessly pursue the absolute **Removal of Waste**. (Graphic)
 
 ## Value 
 
