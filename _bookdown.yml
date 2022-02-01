@@ -1,0 +1,6 @@
+book_filename: "CIDMO_LCMT_Bookdown"
+language:
+  ui:
+    chapter_name: "Chapter "
+new_session: yes
+rmd_files: ["index.Rmd", ""chapter_11_track_issues_and_features.md", "chapter_12_glossary.md"]
