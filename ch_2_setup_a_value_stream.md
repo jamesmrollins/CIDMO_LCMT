@@ -4,4 +4,4 @@ The instructions below outline a step-by-step method for defining your work. The
 
 ## Describe a Value Stream
 
-This section describes how the team will describe the value stream and how it is measured. A value stream can be expressed in layers, with the physical steps outlined and the supporting technical layer shown. 
+This section describes how the team will describe the value stream and how it is measured. A value stream can be expressed in layers, with the physical steps outlined and the supporting technical layer shown. We describe our objective value stream using a Development Value Stream Canvas.
