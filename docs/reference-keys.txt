@@ -1,0 +1,8 @@
+cidmo-lcmt-manual
+introduction-to-lean
+lean-is-based-on-5-principles
+value
+value-flows-to-the-clinical-value-stream
+cidmo-operates-development-value-streams
+setup-a-development-value-stream
+step-1---develop-a-value-stream-canvas
