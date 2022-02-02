@@ -1,11 +1,11 @@
 # Introduction to Lean
 
-Lean is a theory and a work method that is aimed at maximizing value-added activities. Value-added activities are those activities that increase the incremental value of your product in the eyes of your customer. Certainly, a product can be a physical item, a block of code, a writing or even a service. Implementing Lean will be a transformation of how CIDMO prioritizes and performs work. When overlaid with Agile methods, Lean promotes transparency, improves delivery speed, improves product quality and increases focus on priorities. Indeed, Lean succeeds because it allows people time and space to plan, innovate and challenge the status quo.
+Lean is a theory and a work method that is aimed at maximizing value-added activities. Value-added activities are those activities that increase the incremental value of your product in the eyes of your customer. Certainly, a product can be a physical item, a block of code, a writing or even a service. Implementing Lean will be a transformation of how CIDMO prioritizes and performs work. When overlaid with Agile work-methods, Lean promotes transparency, improves delivery speed, improves product quality and increases focus on priorities. Indeed, Lean succeeds because it allows people time and space to plan, innovate and challenge the status quo.
 
 ## Lean Is Based on 5 Principles
 
 - Define **Value**. (graphic)
-- Map the Value Stream. (graphic)
+- Map the **Value Stream**. (graphic)
 - Create **Flow** - so steps defined in the value stream flow uninterrupted. (Graphic)
 - Establish **Pull** - work on one thing at a time in order of priority (Kanban). (Graphic)
 - Relentlessly pursue **Perfection** through the **Removal of Waste**. (Graphic)
