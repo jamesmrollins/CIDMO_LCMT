@@ -6,10 +6,10 @@ The instructions below outline a step-by-step method for defining your work usin
 
 This section describes how the team will describe the value stream and how it is measured. A value stream can be expressed in layers, with the physical steps outlined and the supporting technical layer shown. We describe our objective value stream using a Development Value Stream Canvas. 
 
-Visual Unification Tool
-Enhances systems thinking
-Simplification Tool
-Practical means to drive improvement
+- Visual Unification Tool
+- Enhances systems thinking
+- Simplification Tool
+- Practical means to drive improvement
 
 Supported Value Stream
 
