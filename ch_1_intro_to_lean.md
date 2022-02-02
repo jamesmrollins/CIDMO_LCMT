@@ -20,8 +20,8 @@ Lean is a theory and a work method that is aimed at maximizing value-added activ
 
 The Veterans Health Administration operates multiple **Clinical Value Streams** (CVS) to deliver medical services to Veterans. For example, when a Veteran calls an appointment scheduler and makes an appointment, that would be considered a value-added activity. However, when the Vet comes for his visit and spends 30 minutes in a waiting room - this is non-value added activity. This is an example of how some obstacle has prevented the Veteran from moving from the doorway, straight into the doctors examination room. Some obstacles are pure waste, such as a capacity imbalance on the clinical staff or unavoidable waste, such as a policy which directs the Veteran fill out a form before starting care. Value can also take the form of quality and safety. For example, if a Veteran has an allergy, but the clinical decision support system does not catch the information and provide a reminder dialogue, it may result in a poor patient outcome or put the patient at risk. The key to delivering value is to have a direct affect on these processes in a manner that enhances patient flow, by removing waste.
 
-> Types of waste table
-> Value Added versus Non-Value Added anecdote
+> 7 Types of waste table.
+> Value Added versus Non-Value Added anecdote. 
 > Need a story to illustrate the difference between the two activities and how they are measured.
 > A picture would be nice too.
 
