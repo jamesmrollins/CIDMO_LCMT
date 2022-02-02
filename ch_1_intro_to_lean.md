@@ -4,7 +4,10 @@ Lean is a theory and a work method that is aimed at maximizing value-added activ
 
 ## Lean Is Based on 5 Principles
 
-- Define **Value**. (graphic)
+### 1. Define Value 
+
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/images/define_value_graphic.png?raw=true">
+
 - Map the **Value Stream**. (graphic)
 - Create **Flow** - so steps defined in the value stream flow uninterrupted. (Graphic)
 - Establish **Pull** - work on one thing at a time in order of priority (Kanban). (Graphic)
