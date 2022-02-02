@@ -6,7 +6,7 @@ Lean is a theory and a work method that is aimed at maximizing value-added activ
 
 ### 1. Define Value 
 
-<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/images/define_value_graphic.png?raw=true">
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/define_value_graphic.png?raw=true">
 
 - Map the **Value Stream**. (graphic)
 - Create **Flow** - so steps defined in the value stream flow uninterrupted. (Graphic)
