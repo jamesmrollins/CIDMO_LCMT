@@ -3,4 +3,4 @@ language:
   ui:
     chapter_name: "Chapter "
 new_session: yes
-rmd_files: ["index.Rmd","ch_1_intro_to_lean.md",ch_2_setup_a_value_stream.md"]
+rmd_files: ["index.Rmd","ch_1_intro_to_lean.md","ch_2_setup_a_value_stream.md"]
