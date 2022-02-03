@@ -1,17 +1,55 @@
+---
+title: "Introduction to Lean"
+author: "CIDMO_LCMT"
+date: "January 2022"
+reading time: Approximately 10 min.
+release: "1.0"
+output: gh-pages
+---
+
 # Introduction to Lean
 
-Lean is a theory and a work method that is aimed at maximizing value-added activities. Value-added activities are those activities that increase the incremental value of your product in the eyes of your customer. Certainly, a product can be a physical item, a block of code, a writing or even a service. Implementing Lean will be a transformation of how CIDMO prioritizes and performs work. When overlaid with Agile work-methods, Lean promotes transparency, improves delivery speed, improves product quality and increases focus on priorities. Indeed, Lean succeeds because it allows people time and space to plan, innovate and challenge the status quo.
+Lean is a theory and a work method that is aimed at maximizing value-added activities. Value-added activities are those activities that increase the incremental value of your product in the eyes of your customer. Certainly, a product can be a physical item, a block of code, a writing or even the result of a service. **Implementing Lean will be a transformation of how CIDMO prioritizes and performs work.** When overlaid with Agile work-methods, Lean promotes transparency, improves delivery speed, improves product quality and increases focus on priorities. Indeed, Lean succeeds because it allows people time and space to plan, innovate and challenge the status quo. Lean provides an engagement process that gathers the tacit knowledge frontline workers have and formalizes that knowledge to improve processes necessary to support the strategic direction of CIDMO.
 
 ## Lean Is Based on 5 Principles
 
-### 1. Define Value 
+### 1. Define Value
+
+In CIDMO, **Value** is defined as activities which result in a benefit, divided by the cost of deriving the benfit. So value can be increased by improving the benefit, by reducing the cost of deriving the benefit, or both.
 
 <img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/define_value_graphic.png?raw=true">
 
-- Map the **Value Stream**. (graphic)
-- Create **Flow** - so steps defined in the value stream flow uninterrupted. (Graphic)
-- Establish **Pull** - work on one thing at a time in order of priority (Kanban). (Graphic)
-- Relentlessly pursue **Perfection** through the **Removal of Waste**. (Graphic)
+### 2. Map the Value Stream
+
+Mapping the value stream is a unified effort to distill the macro process steps of delivering value to the patient. It helps leaders to understand cross-functional dependencies across functional silos, to see the affect of information technology enablers, and create improvement targets and implementation strategies. **Value Streams** differ from workflows or other process maps, because they focus on macro process steps, information flows and their associated measurements, vice getting into the weeds of more tactical process steps. The definition of **Value Streams** in Agile methods are expanded to include "Development Value Streams," which are standing service lines that enable improvements in an "Operational or Clinical" **Value Stream.**
+
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/value_stream_graphic.png?raw=true">
+
+### 3. Create Flow
+
+In an ideal state, work in a value stream should flow uninterrupted. Usually, some form of waste obstructs the movement of value through the system. Examples of waste are listed in number 5 below. When a system is optimized to flow, unobstructed by wasteful obstacles, work if performed more quickly, with less frustration and with higher efficiency and quality.  
+
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/flow_graphic.png?raw=true">
+
+### 4. Establish Pull
+
+Work on one thing at a time in order of priority. Many organizations divide people's time among several priorities. Working this way makes it difficult to develop team dynamics, such as habitual working relationships, continuity, a full understanding of dependencies across functions and a task focus that is necessary for the team to successfullly work through complex issues. Moreover, coordinating work among different skill sets leads to some people working ahead and others having nothing to do. In an effort to not let workers idle, managers assign work to fill the "void" using employees who appear to have capacity. However, the employee really doesn't have excess capacity, because they are waiting for someone to give them upstream information or product. When the product or information actually arrives, they cannot work on it because they are distracted with the earlier "void" assignment. This leads to confusion, quality problems and delays.
+
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/pull_graphic.png?raw=true">
+
+### 5. Relentlessly pursue Perfection through the Removal of Waste
+
+Pursuing perfection and removing waste is a key driver to the innovation process. Learning to see **and not accept** waste in all of its forms is fundamental to improving processes. Often workers see waste but ignore it because they don't feel empowered to do anything about it. Many workers develop methods that are responsive to a wasteful activity called a "workaround," which ironically is a form of innovation. However, because the "workaround" is not pulled into mainstream or formal knowledge, it can often be frowned upon and viewed as non-compliant behavior. Lean provides the means and methods to capture this frontline tacit knowledge and convert it into mainstream formal knowledge for all to benefit.
+
+|Type of Waste | Description |
+|--------------|-------------|
+|**Transport**| Moving products that are not actually required to perform the processing|
+|**Inventory**| all components, work in progress and the finished product not being processed|
+|**Motion**| people or equipment moving or walking more than is required to perform the processing|
+|**Waiting**|waiting for the next production step|
+|**Overproduction**| production ahead of demand|
+|**Over Processing**| resulting from poor tool or product design creating unnecessary activity|
+|**Defects**|the effort involved in inspecting for and fixing defects|
 
 ## Value 
 
@@ -23,10 +61,9 @@ Lean is a theory and a work method that is aimed at maximizing value-added activ
 
 The Veterans Health Administration operates multiple **Clinical Value Streams** (CVS) to deliver medical services to Veterans. For example, when a Veteran calls an appointment scheduler and makes an appointment, that would be considered a value-added activity. However, when the Vet comes for his visit and spends 30 minutes in a waiting room - this is non-value added activity. This is an example of how some obstacle has prevented the Veteran from moving from the doorway, straight into the doctors examination room. Some obstacles are pure waste, such as a capacity imbalance on the clinical staff or unavoidable waste, such as a policy which directs the Veteran fill out a form before starting care. Value can also take the form of quality and safety. For example, if a Veteran has an allergy, but the clinical decision support system does not catch the information and provide a reminder dialogue, it may result in a poor patient outcome or put the patient at risk. The key to delivering value is to have a direct affect on these processes in a manner that enhances patient flow, by removing waste.
 
-> 7 Types of waste table.
 > Value Added versus Non-Value Added anecdote. 
 > Need a story to illustrate the difference between the two activities and how they are measured.
-> A picture would be nice too.
+
 
 Most value-streams are characterized graphically with respective rate and quality measurements, supporting information systems, quantities of people required with their desired competencies, and triggers or signals that start and stop parts of the process to move items along.  An example of a CVS is illustrated below.  _Please note that most CVS are not currently documented._ The goal of lean is to reduce waste in this system and improve the quality of value-added actitivities; therefore, **any value we create must flow to this system to be actualized.**
 
