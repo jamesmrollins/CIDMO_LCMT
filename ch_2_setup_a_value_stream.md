@@ -7,7 +7,7 @@ release: "1.0"
 output: gh-pages
 ---
 
-# You Are Fundamentally Changing the Way Work Is Performed
+# We Are Fundamentally Changing the Way Work Is Performed
 
 Today, teams are organized through a non-standardized request process that allocates an employee's time as a percentage of full time employment (% FTE).  In effect, a person may be on muliple project teams, with unrelated purposes which requires significant amounts of time to coordinate. One main benefit of the Lean Agile transformation is to provide employees with a one-at-a-time task focus. While one might think that would slow down the amount of work being completed, it actually improves workflow velocity and shortens delivery time, since it reduces wasteful coordination, scheduling and planning tasks and provides more time for actual value-added work to be performed.
 
