@@ -1,7 +1,7 @@
 ---
 title: "CIDMO LCMT Manual"
 author: "Lean Change Management Team"
-date: "2022-02-02"
+date: "2022-02-09"
 link-citations: yes
 preview: yes
 site: bookdown::bookdown_site
