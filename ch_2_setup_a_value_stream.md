@@ -2,7 +2,7 @@
 title: "Setup a Development Value Stream"
 author: "CIDMO_LCMT"
 date: "February 2022"
-reading time: Approximately 10 min.
+reading time: Approximately 30 min.
 release: "1.0"
 output: gh-pages
 ---
@@ -173,27 +173,21 @@ Key to fundamentally improving a system is to understand the forms of waste and 
 
 ## Step 4 - Map Information Flow
 
-    
+An important part of analyzing the Value Stream is understanding how information interacts with each part of the process. The Team should identify any IT systems, such as CPRS, or the Corporate Data Warehouse (CDW), that interfaces with a process block. The team should not worry about email systems or things of this nature, unless email is used in conjuction with a customer relationship management system. Client side applications like Word are not necessary to track either. However, if the Team is using Excel or a database to perform work, these should be identified. Label these IT systems above the process steps and point arrows that indicate the direction of information flow. Identifying the information flow is usually a step the highlights how the same process can interface with multiple platforms that pose integration challenges. 
+
     
     
 ## Step 5 - Create Your Dashboard
+Use the table below and tools such as GitHub and ZenHub to begin tracking your Team's performance. It is important to gather this kind of data as passively as possible and automatically accumulate it. If the team has to divert resources to gather this information apart from its normal workflow, that is wasteful. Check out the chapter devoted to GitHub and Zenhub to deepen your understanding of how it works. If you have questions talk to a member of the Lean Change Management Team or your Scrum Master.
 
-
-Total Lead Time
-Total Process Time
-Activity Ratio
-Rolled Percent Complete and Accurate
-Total Labor Process Time
-Total Labor Effort
-Improvement Goals
-
-## Step 6 - Create a Future State Map
-
-
-
-
-
-
+|Metric|Description|Supporting ZenHub Report|
+|------|-----------|--------------|
+|Total Lead Time (TLT)| TLT is total time it takes from customer request landing in the backlog to being completed.| Control Chart|
+|Velocity| The total load (in story points) the team can complete per sprint| Velocity Tracking|
+|Activity Ratio|This is a ratio of Total Process Time over Total Lead Time and indicates the percentage of time that is Value-added.|Control Chart and XXXX|
+|Rolled Percent Complete and Accurate|Issues tagged with "rework" label in a given process step divided by the total issues processed in that step| XXXXX |
+|Burndown Report| Reports the completion of issues for a spint, subtracted from the total issues assigned to that sprint| Burndown Report|
+|Cumulative Flow| Reports accumulation of issues in process steps. Increased accumulation indicates a bottleneck. | Cumulative Flow Report|
 
 ## Glossary
 
@@ -202,8 +196,6 @@ Demand
 Lead Time
 Process Time
 Percent Complete and Accurate
-
-
 Economic Framework
 
 
