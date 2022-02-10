@@ -97,6 +97,8 @@ The key performance indicators for the team are value, flow, quality, and happin
 ## Step 2 - Develop a Current State Map
 
 Not that the Agile Team has completed their DVS Canvas, they should understand a great deal more about their customer base and how they deliver their products.  They should have at least a rough idea of the affect their products or services can have on the CVS.  Now they are ready to develop their own Value Stream Map and its measurables.  Value Stream Mapping exercises are typically done in a classroom or conference room environment with all stakeholders present. However, with distributed adminstrative environments, Teams and Zoom are teleconferencing services that are rapidly replacing the in-person meeting. Internet challenges notwithstanding, it is possible to conduct a Value Stream Mapping exercise as described below using a teams channel, with a shared Whiteboard, Lucid or Word Doc for team members to participate. Consult Setup_a_value_stream_workshop.docx for detailed instructions on how to set up a Teams channel with a shared Whiteboard.
+    
+ > If the Team is forming an Agile Team and its associated Development Value Stream **for the first time,** then collecting some of the measurements below may not be possible. However, having a solid grasp of how a Development Value Stream is optimized, will help the team form effective policies with which to manage itself. Furthermore, the First-Walk, Second-Walk process will help stimulate conversation about what data the team will need to collect.
 
 ### Conduct a First-Walk
 
@@ -114,7 +116,7 @@ Since most CIDMO process steps are not tangible, its not like we can walk throug
 
 After the team completes the discussion above, the team returns to the task of developing its first Value Stream Map. We will use Microsoft Whiteboard in a Teams channel to develop the working copy of the map. The Whiteboard is accessible simultaneously by all members of the team. The Whiteboard has PostIt notes that can be used to describe each process block. Process flows from left to right.   
 
->**Remember that we are looking at most basic information at the macro level.** Although there may be many sub-steps required to complete a process step, we are not focusing on >these. This is what differentiates a value stream map from a workflow. A workflow would include all work steps to complete a given task, whereas the Value Stream would focus on >the macro steps needed to transform the product to meet the customer need. Value Stream maps are strategic in nature and will be used for focusing on improvement activities >over a long period of time. 
+>**Remember that we are looking at most basic information at the macro level.** Although there may be many sub-steps required to complete a process step, we are not focusing on these. This is what differentiates a value stream map from a workflow. A workflow would include all work steps to complete a given task, whereas the Value Stream would focus on the macro steps needed to transform the product to meet the customer need. Value Stream maps are strategic in nature and will be used for focusing on improvement activities over a long period of time. 
 
 The graphic below illustrates the major features of a Value Stream Map. The map starts with a customer request or requirements, identifies the major value-added steps that transforms the request into a delivered product or service. If needed, a Value Stream can have branches to represent a certain percentage of effort that might take on a slight variation.
 
@@ -127,11 +129,11 @@ The graphic below illustrates the major features of a Value Stream Map. The map 
 During the First-Walk, we identified the major activites and functions sequentially involved in delivering a product or service. During the Second-Walk we will focus on the performance of the value stream and the obstacles to flow. In order to prioritize any inprovements to the Value Stream, it is important to assess its performance in terms of value, flow and quality. 
 
 > **In lieu of actual measurements, educated guesses will suffice to get started.** If you are organizing an Agile Team and documenting a Development Value Stream for the first
-> time, many of these measurements may not be available. See the chapter on GitHub and ZenHub for more information about passive collection of team performance information.
-> GitHub and ZenHub provide repository storage capacity, document version control, code-base control and kanban work management support; while passively gathering data for the
-> team to self-regulate its performance and set priorities to meet objectives.
+time, many of these measurements may not be available. See the chapter on GitHub and ZenHub for more information about passive collection of team performance information.
+GitHub and ZenHub provide repository storage capacity, document version control, code-base control and kanban work management support; while passively gathering data for the
+team to self-regulate its performance and set priorities to meet objectives.
  
-#### Define Process Time (PT) for Each Process Block 
+#### Estimate Process Time (PT) for Each Process Block 
 
 The amount of time to complete the transformation described by the process step is called the Process Time (PT).  It is nomrally measured in terms of minutes, hours, days, or in some cases weeks.  Standardize the unit of measure for time throughout the Value Stream. Process time _does not_ include any time the product or service spends waiting.  It is determined as if the workers can work on the process step uninterrupted. Time studies are not required for this step; just need to know more or less how long it takes to finish the work. As improvement activites are directed to this step, more detailed analysis can be performed to highlight areas of improvement. 
 
@@ -141,29 +143,41 @@ Value-added activity is what your customer is willing to pay for.  Non-value Add
 
 <image src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/va_uva_labeling.png?raw=true">
     
-#### Define Process Lead Time (LT)
+#### Estimate Process Lead Time (LT)
 
 Lead Time is the amount of time it takes for the work from the previous steps to present at the current step. It is determined by taking the sum of the previous process step Process Times.  The total of all Process Times in a Value Stream is the total Lead Time or throughput time. Lead Time includes all delays and time work spends in queu waiting for the next step. Therefore, the total Lead Time calculation is not made until the Barriers to Flow in Step 3 are identified.
 
-#### Percent Complete and Acceptable (%C&A)
+#### Estimate Percent Complete and Acceptable (%C&A)
 
 A simple quality measure is percentage of work completed in a process step that can move directly to the next step without correction or rework over the total work performed in that process.  The higher the percentage, the higher the rate of completion and acceptance in the eyes of downstream process steps, or the end customer. Because a shortcomings in a process step may not be discovered until further down in a Value Stream, it is important to identify the source of %C&A hits.
 
-## Step 3 - Identify Barriers to Flow
+#### Work-in-Process (WIP)
+Each process step will likely have more than one feature or development item in-work at a given time. Like a juggler who keeps three or four balls in the air at the same time, a team must juggle multiple work items at the same time.  This is called "work-in-process" or "WIP" (pronounced "Whip."). WIP is constrained by the Team's capacity, and exceeding its WIP capacity will cause a backlog of work before the process block. WIP can amounts can fluctate between periods and typically the median of these measures is acceptable for the teams WIP capacity. The median is used as the measure of central tendency because it illustrates the most sustainable number the team can manage.
     
-Batching
-System Downtime 
-Shared Resources or Inaccessible Staff
-Switch-taksing/interruptions
-Prioritization Rules
-WOrk in Process
-Number of People
-Work Triggers
-Process step volume
+#### Work Volume or Total Demand
+Understanding the relationship between total demand, lead-time and process-time will help the team understand if it has sufficient capacity to meet customer expectations. Certainly, the ability to meet scheduled predictions for deliverables is important.  However, if the relationship between capacity and demand is not managed, then these expectations will be difficult to fulfill. 
+
+> **Takt Time** is a useful calculation regarding the relationship between demand and capacity and establishing work rate. Takt Time is total demand divided by total work time available.  For example, if there was a stack of 150 feature requests (demand) that was needed in 90 days (total time available), then 150/90 = 1.6 feature requests would need to be produced by the Value Stream every day for it to reach its target. 
+    
+## Step 3 - Identify Barriers to Flow
+
+Key to fundamentally improving a system is to understand the forms of waste and to see where it occurs. Below is a table that defines the types of waste that can occur in clinical and product development Value Streams. During the Second Walk, the Agile Team should identify "low hanging fruit" or obvious non-essential non-value added waste. Review the table and look at the process blocks in the Value Stream.  Are there instances where the work stops?  Why does it wait? Is there an accumulation of materials? How about mistakes - do those make it from process block to another unchecked?  Identify these barriers to flow using a red PostIt and identify the form of waste.
+    
+| Type of Waste | Definition|Example|
+|---------------|-----------|-------|
+|Batching| Batching is holding a work-piece until other similar work-pieces are completed before releasing to the next process step.|Holding a document from a review step because not all the chapters are complete.|
+|System Downtime| System downtime is when a system you rely upon to process work is not available to perform that work.|Databases in a corporate data warehouse may not be available during certain allocated periods to manage demand capacity.|
+|Shared Resources or Inaccessible Staff|A shared resource or inaccessible is not always available the point in time when it is needed.|Some individuals have a primary job and are detailed to support a given task; they are often not available when needed and that causes delays.| 
+|Switch-taskings/interruptions| Switching from task A to task B divides the focus of the team and can cause delays.| When COVID-19 broke out, teams switched from their normal work to directly supporting COVID-19 related work, causing normal work to suffer.|
+|Prioritization Rules|Prioritization that is not shared between functions can cause one function to desynchronize with another.| One example would be a unilateral reprioritization by one division, which removed a resource from the team to support a priority outside the team.| 
 
 ## Step 4 - Map Information Flow
 
+    
+    
+    
 ## Step 5 - Create Your Dashboard
+
 
 Total Lead Time
 Total Process Time
@@ -171,7 +185,6 @@ Activity Ratio
 Rolled Percent Complete and Accurate
 Total Labor Process Time
 Total Labor Effort
-
 Improvement Goals
 
 ## Step 6 - Create a Future State Map
