@@ -63,15 +63,14 @@ The Veterans Health Administration operates multiple **Clinical Value Streams** 
 
 Most value-streams are characterized graphically with respective rate and quality measurements, supporting information systems, quantities of people required with their desired competencies, and triggers or signals that start and stop parts of the process to move items along.  An example of a CVS is illustrated below.  _Please note that most CVS are not currently documented._ The goal of lean is to reduce waste in this system and improve the quality of value-added actitivities; therefore, **any value we create must flow to this system to be actualized.**
 
-> CVS Value Stream Illustration.
+<image src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/cvs_illustration.png?raw=true">
 
+Image from Karen Martin and Mike Osterling, **Value Stream Mapping**, McGraw-Hill Education, 2014, p. 157
+    
 ## CIDMO Operates Development Value Streams
 
 CIDMO has many portfolios that describe competencies they can use to fulfill customer requirements. Using Lean principles, we are organizing these competencies around **Development Value Streams (DVS)**. As features for customers are developed from the DVS, _it flows to improvements in the CVS_; thus, value we create is being actualized in terms of performance improvement in the CVS.
-
-> CIDMO Program Portfolio
-> DVS Value Stream Illustration with relationship to CVS
-    
+ 
 ## Agile Release Trains (ART)
 
 An Agile Release Train is a standing "team of teams" that groups two or more Development Value Streams around a common mission or customer. Detailed information can be found at the [SAFe Agile Release Train](https://www.scaledagileframework.com/agile-release-train/). Collectively, the Integrated Clinical Communities and the Program Offices participate in the Integrated Clinical Practice Management Board to accept new work and prioritize the work backlog for the ART. The ART is managed by specific roles that have resource authority and are responsible for integrating backlog work into existing product portfolios.
