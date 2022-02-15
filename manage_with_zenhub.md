@@ -1,26 +1,50 @@
-# Manage with ZenHub
+---
+title: "Manage Team with ZenHub"
+author: "CIDMO_LCMT"
+date: "February 2022"
+reading time: Approximately 10 min.
+release: "1.0"
+output: gh-pages
+---
 
-![ ](https://user-images.githubusercontent.com/59668647/89149904-6216a400-d512-11ea-86f3-d7f23545576d.jpg)
+# Manage Team with ZenHub
 
-Team PSD uses the GitHub Google Chrome extension, [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US), for agile project management.
+CIDMO Agile Teams will use the GitHub Google Chrome extension, **ZenHub** for agile project management. 
 
 We use ZenHub to:
 
-- see all of our Team PSD's workflow at a glance.
-- organize and prioritize existing issues and features.
-- track dependencies across workgroups.
-- plan for our month's work in a Epic and plan for further Epics down the road.
+- See all of our Agile Teams workflows at a glance.
+- Organize and prioritize existing issues and features.
+- Track dependencies across workgroups.
+- Plan our work in sprints negotiated in a Program Increment Planning Conference.
 
 ## Enable ZenHub within GitHub
 
-![ ](https://user-images.githubusercontent.com/59668647/89149906-62af3a80-d512-11ea-8e64-fb2720f778e5.jpg)
+Click [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US) for the ZenHub Google Chrome extension. If you are an Edge user, you can use the Chrome extension in your Edge browser.
 
-Click [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US) for the ZenHub Google Chrome extension.
+### From the Chrome Store
 
-![ ](https://user-images.githubusercontent.com/59668647/89149907-6347d100-d512-11ea-8770-76dacdfdf80e.jpg)
-![ ](https://user-images.githubusercontent.com/59668647/89149908-6347d100-d512-11ea-8874-4da8688a2f33.jpg)
-![ ](https://user-images.githubusercontent.com/59668647/89149911-63e06780-d512-11ea-92cc-927bb51ea87e.jpg)
-![ ](https://user-images.githubusercontent.com/59668647/89149914-6478fe00-d512-11ea-9ae6-fd6fefdc7b9e.jpg)
+1.  Navigate to the Chrome Store by clicking [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US).  Enter "ZenHub" in the search bar and click the magnifying glass.
+2.  When the enHub graphic appears, click on it.
+
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/zenhub_chrome_setup1.png?raw=true">
+
+---
+
+1. Click "Add to Chrome" Button and follow the prompts.
+2. Click the "Product Tour" for a brief presentation about ZenHub capabilities.
+
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/zenhub_chrome_setup2.png?raw=true">
+
+---
+
+### If Using Edge
+
+1. Navigate to the settings menu.
+2. Select "Extensions" from the dropdown. Select "Manage Extensions" from the popup.
+3. Click the "Chrome Webstore Link."  Follow the same screens as shown for Chrome above - **Edge uses the extensions as Chrome.**
+
+<img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/zenhub_edge_setup.png?raw=true">
 
 ## View Roadmap + Epics
 
