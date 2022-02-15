@@ -2,12 +2,12 @@
 title: "Manage Team with ZenHub"
 author: "CIDMO_LCMT"
 date: "February 2022"
-reading time: Approximately 10 min.
+reading time: Approximately 40 min.
 release: "1.0"
 output: gh-pages
 ---
 
-# Manage Team with ZenHub
+# Managing the Scrum with ZenHub
 
 CIDMO Agile Teams will use the GitHub Google Chrome extension, **ZenHub** for agile project management. 
 
@@ -18,7 +18,12 @@ We use ZenHub to:
 - Track dependencies across workgroups.
 - Plan our work in sprints negotiated in a Program Increment Planning Conference.
 
-## Enable ZenHub within GitHub
+## 1. Watch
+
+- [Scrum for GitHub Using ZenHub](https://youtu.be/EqawzBshMfc)
+
+
+## 2. Enable ZenHub within GitHub
 
 Click [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US) for the ZenHub Google Chrome extension. If you are an Edge user, you can use the Chrome extension in your Edge browser.
 
@@ -45,6 +50,15 @@ Click [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkff
 3. Click the "Chrome Webstore Link."  Follow the same screens as shown for Chrome above - **Edge uses the extensions as Chrome.**
 
 <img src = "https://github.com/jamesmrollins/CIDMO_LCMT/blob/gh-pages/Images/zenhub_edge_setup.png?raw=true">
+
+
+
+
+
+
+
+
+
 
 ## View Roadmap + Epics
 
