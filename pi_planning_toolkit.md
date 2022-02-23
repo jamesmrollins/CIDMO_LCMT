@@ -1,6 +1,6 @@
 ---
 title: "PI Planning Toolkit"
-author: "HFE - Visionary Consulting Partners, Praxis Analytix"
+author: "HFE - Visionary Consulting Partners, Praxis Analytix, SAFe(R) Scaled Agile"
 date: "February 2022"
 reading time: Approximately 60 min.
 release: "1.0"
