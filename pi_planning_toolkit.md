@@ -13,6 +13,8 @@ output: gh-pages
 
 ## Introduction
 
+**Plans are nothing; planning is everything.** *- Dwight D. Eisenhower*
+
 Divisions within CIDMO will partner with business owners and stakeholders from multiple VHA offices to conduct Program Increment (PI) Planning events that enable communication, visibility, and collaboration across Agile teams in the prioritization and planning of backlog activities. PI Planning is a Scaled Agile Framework™ (SAFe™) program planning methodology that brings together various teams in scheduled, cadence-based events in order to align to a shared vision, features, and a project roadmap culminating into a plan. According to Easy Agile, “SAFe™ is a series of guidelines and practices designed to help bring agility into larger organizations, across all teams and levels of the business. The framework is geared towards improving visibility, alignment, and collaboration and should lead to greater productivity, better results, and faster delivery” (2021). Traditionally, PI Planning  is conducted in-person and serves as “the heartbeat” of the Agile Release Train (ART), by including the team of people (expertise) needed to implement, test, deploy, release, and deliver a solution. This team is typically comprised of 50-125 people who plan, commit, develop, and deploy work together towards a common set of objectives. In the following pages, we provide an easy to read, adaptable toolkit that enables participants to rapidly plan and deploy PI Planning activities. 
 
 Learn more by visiting [SAFe™and PI Planning](https://www.scaledagileframework.com/pi-planning/)
