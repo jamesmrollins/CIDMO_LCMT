@@ -7,7 +7,17 @@ release: "1.0"
 output: gh-pages
 ---
 
-# Introduction to Lean at CIDMO
+# Objectives
+
+After reading this module, the teammate will understand and be able to relate:
+
+- Lean-agile terms, acronyms and principles.
+- How development value streams support clinical value streams.
+- The role of the Agile Release Train and how they fulfill product and service requests.
+- How product portfolios are prioritized by the IHPMB and sent to Agile Release Trains for development.
+- How the organization will use cadence to enhance flow, planning and task execution.
+
+## Introduction to Lean at CIDMO
 
 Lean is a theory and a work method that is aimed at maximizing value-added activities. Value-added activities are those activities that increase the incremental value of your product in the eyes of your customer. Certainly, a product can be a physical item, a block of code, a writing or even the result of a service. **Implementing Lean will be a transformation of how CIDMO prioritizes and performs work.** When overlaid with Agile work-methods, Lean promotes transparency, improves delivery speed, improves product quality and increases focus on priorities. Indeed, Lean succeeds because it allows people time and space to plan, innovate and challenge the status quo. Lean provides an engagement process that gathers the tacit knowledge frontline workers have and formalizes that knowledge to improve processes necessary to support the strategic direction of CIDMO.
 
