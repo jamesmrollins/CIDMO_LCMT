@@ -9,26 +9,26 @@ output: gh-pages
 
 # PI Planning is Essential to Lean-Agile
 
-> "Program Increment (PI) Planning is a cadence-based, face-to-face event that serves as the heartbeat of the Agile Release Train (ART), aligning all the teams on the ART to a shared mission and Vision. PI planning is essential to SAFe: **"If you are not doing it, you are not doing SAFe."** © Scaled Agile, Inc.
+> "Program Increment (PI) Planning is a cadence-based, face-to-face event that serves as the heartbeat of the Agile Release Train (ART), aligning all the teams on the ART to a shared mission and vision. PI planning is essential to SAFe: **"If you are not doing it, you are not doing SAFe."** © Scaled Agile, Inc.
 
 ## Introduction
 
 >**Plans are nothing; planning is everything.** *- Dwight D. Eisenhower*
 
-Divisions within CIDMO will partner with **business owners** and field-based stakeholders from multiple VHA offices to conduct Program Increment (PI) Planning events that enable communication, visibility, and collaboration across Agile teams in the prioritization and planning of backlog activities. PI Planning is a Scaled Agile Framework™ (SAFe™) program planning methodology that brings together various teams in scheduled, cadence-based events in order to align to a shared vision, features, and a project roadmap culminating into a plan.  Traditionally, PI Planning  is conducted in-person and serves as “the heartbeat” of the Agile Release Train (ART), by including the Agile Teams with certain expertise needed to implement, test, deploy, release, and deliver solutions. The ART is typically comprised of 50-125 people who plan, commit, develop, and deploy work together towards a common set of objectives. 
+Programs, composed of division resources within CIDMO will partner with **business owners** and field-based stakeholders from multiple VHA offices to conduct Program Increment (PI) Planning events that enable communication, visibility, and collaboration across agile teams in the prioritization and planning of backlog activities. PI Planning is a Scaled Agile Framework™ (SAFe™) program planning methodology that brings together various teams in scheduled, cadence-based events in order to align to a shared vision, and prioritize capabilities and features into a roadmap a increment plan.  Traditionally, PI Planning  is conducted in-person and serves as “the heartbeat” of the Agile Release Train (ART), and includes all the agile teams needed to implement, test, deploy, release, and implement solutions. The ART is typically comprised of 50-125 people who plan, commit, develop, and deploy work together towards a common set of objectives. 
 
 Learn more by visiting [SAFe™and PI Planning](https://www.scaledagileframework.com/pi-planning/)
 
 ## Stakeholders and Role Assignments
 
-Stakeholders are critical to PI Planning and include the Business Owner, Product Owner, Product Manager, System Architect/Engineer, and Agile Team.  Stakeholders actively engage in PI Planning Preparation and collaborate effectively to align product development activities to business goals.  Overlap among roles may exist and depending on the organizational structure, and multiple stakeholders may share one role.
+Stakeholders are critical to PI Planning and include the Business Owner, Product Owner, Product Manager, System Architect/Engineer, and agile Team.  Stakeholders actively engage in PI planning preparation and ensure product development activities align to business goals.  Overlap among roles may exist and depending on the organizational structure, multiple stakeholders may share one role.
 
 Roles in PI Planning include:
 
 - **The Integrated Health Practice Management Board (IHPMB) is the Business Owner** and serve as governance and have responsibility for the return on investment for solutions created by the ART. They have authority to adjust the relative priorities of items in the ART backlog.
 - **Program Office Representatives are the Product Managers who participate in all aspects of PI Planning.**  Prior to PI Planning, Product Managers collaborate with other ART representatives to discuss and define inputs, objectives, and milestones for PI Planning events.  During PI planning, the Product Manager is responsible for “presenting the vision, roadmap, and the program backlog’s highest priority features.” After the PI Planning event, Product Managers reconvene with ART representatives to capture the outcomes/ lessons learned and summarize specific findings into PI Objectives.” (AHA.io, 2021) 
 - **Product Owners** serve on an Agile Team and are a _proxy for the customer_ that along with the Scrum Master, prioritizes and maintains the Team Backlog, articulates the customer's needs, assists the Team with drafting Program Increment objectives and defines User Stories.  Product Owners evaluate progress, communicate status to stakeholders, and participate in the Team Confidence Vote.
-- **Scrum Masters are appointed and trained to support each team.** Scrum Masters will facilitate PI Planning by facilitators leveraging multiple roles, such as managing and leading all PI processes, preparation for events (including PI Planning), finalizing Team PI objectives, and assisting the Team in estimating their capacity for Iterations.  During PI Planning, Scrum Masters assume the following roles:
+- **Scrum Masters are appointed and trained to support each team.** Scrum Masters will facilitate PI Planning by leveraging multiple roles, such as managing and leading all PI processes, preparation for events (including PI Planning), finalizing Team PI objectives, and assisting the Team in estimating their capacity for Iterations.  During PI Planning, Scrum Masters assume the following roles:
     - Managing the daily PI agenda.
     - Coordinating logistics to support each day.
     - Addressing barriers and dependencies identified during team breakout sessions.
@@ -41,6 +41,10 @@ Roles in PI Planning include:
     - Oversees strategy and execution alignment.
     - Faciliate system demos.
     - Facilitate Management Reviews and other Retrospectives meetings for continuous improvement.
+
+NEED TO ADD AGILE COACH and/OR LCMT
+
+NEED TO ADD ARCHITECTURE TEAM (includes SIM/BA, KBS standards folks, and HFE system engineers)
 
 ## Logistics and Communications Plan and Checklist
 
@@ -64,13 +68,18 @@ PI Planning will use a Top-Agenda to organize daily events and breakout agendas 
 
 ### Day 1 Top-Agenda Activities
 
-1. **Establish Business Context** - The CIDMO Director describes the current state of CIDMO, shares the porfolio vision of the IHPMB, and describes how effectively existing solutions are addressing current customer needs.
+1. **Establish Business Context** - The IHPMB Chair, and interested IHPMB voting members share the current state of clinical operations and programs and upcoming clinical objectives and describes how effectively existing solutions are addressing current customer needs.
 2. **Present the Top 10** - The Program Offices with needs in the product backlog will present the top 10 items in the backlog and express any clinical value stream milestones that need to be supported.
-3. **Present Architecture Vision and Development Practices** - The System Architect presents the overall Development Operations (DEVOPS) structure and may introduce new tools or development activities that would enhance the Agile Team's productivity. These practices include Continuous Integration(CI)/Continuous Development (CD) task automation and testing that are being advanced in the upcoming program increment.
-4. **Planning Context** - The Release Train Engineer presents the planning process, breakout schedule and expected outcomes from the breakouts.
-5. **Team Breakouts #1** - Teams attend breakout sessions and review items allocated from the ART Program Backlog to their team. The team analyzes each request and performs a sprint-breakdown.  The sprint-breakdown consists of brainstorming and describing the supporting epics that desribe the feature. The epics are further broken down into tasks, the completion of which will result in a Product Owner reviewable product. The epics are then arrayed on a Roadmap, over the program increment (usually a fiscal quarter), visible for all to see.
+3. Present the Solution Vision - The CIDMO Director and/or the IHP Release Train engineer will present solution vision for IHP products and components or features of specific IHP practices. 
 
-    - From the Roadmap, the team authors their PI Objectives.  PI Objectives are divided into "committed" and "uncommitted" lists.  The lists are determined by the capacity of the team, and their estimated ability to complete tasks in the backlog. Uncommitted objectives are discussed during Draft Plan Review.  
+![image](https://user-images.githubusercontent.com/14622547/156851182-52eb7cbe-fdec-4d91-b3e6-3a085e2c002c.png)
+
+4. **Present Architecture Vision ** - The Architectecture team presents the vision for future solution and application architecture
+5. **Present  Development Practices** - The LCMT and RTE presents the overall Development Operations (DEVOPS) structure and may introduce new tools or development activities that would enhance the Agile Team's productivity. These practices include Continuous Integration(CI)/Continuous Development (CD) task automation and testing that are being advanced in the upcoming program increment.
+7. **Planning Context** - The Release Train Engineer presents the planning process, breakout schedule and expected outcomes from the breakouts.
+8. **Team Breakouts #1** - Teams attend breakout sessions and review items allocated from the ART Program Backlog to their team. The team analyzes each request and performs a sprint-breakdown.  The sprint-breakdown consists of brainstorming and describing the epics, PI objectives and features. The features are further broken down into user stories, the completion of which will result in a candidate release product. The features are then arrayed on a program board, where dependencies and milestones are made visible for all to see.
+
+    - From the program board, the team finalzes their PI Objectives.  PI Objectives are divided into "committed" and "uncommitted" lists.  The lists are determined by the capacity of the team, and their estimated ability to complete tasks in the backlog. Uncommitted objectives are discussed during Draft Plan Review.  
     - The team identifies any dependencies with other teams in the ART.  These dependencies are discussed and resolved during Draft Plan Review.
 
 6. **Draft Plan Review.** After the team breakouts conclude, the teams present their draft plans to each other, to the Business Owners and the Product Managers. During this review, the teams highlight what they can complete and what is left in the backlog.  The draft plan identifies any risks associated with scope, resources, constraints or dependencies for management to review and help resolve. 
